@@ -3,21 +3,21 @@
 Pod::Spec.new do |s|
 
 
-  s.name         = "YHYBImageBrowser"
+  s.name         = "YBImageBrowser"
 
-  s.version      = "1.0.2"
+  s.version      = "3.0.9"
 
   s.summary      = "iOS image browser / iOS 图片浏览器"
 
   s.description  = <<-DESC
-  					iOS 图片浏览器，功能强大，易于拓展，极致的性能优化和严格的内存控制让其运行更加的流畅和稳健。
+            iOS 图片浏览器，功能强大，易于拓展，极致的性能优化和严格的内存控制让其运行更加的流畅和稳健。
                    DESC
 
   s.homepage     = "https://github.com/indulgeIn"
 
   s.license      = "MIT"
 
-  s.author       = { "yanghong" => "pandaren.chn@gmail.com" }
+  s.author       = { "杨波" => "1106355439@qq.com" }
 
   s.platform     = :ios, "8.0"
 
