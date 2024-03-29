@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT"
 
-  s.author       = { "杨波" => "1106355439@qq.com" }
+  s.author       = { "yanghong" => "pandaren.chn@gmail.com" }
 
   s.platform     = :ios, "8.0"
 
